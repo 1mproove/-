@@ -9,7 +9,7 @@ nyStore = NYPizzaStore()
 
 pizza = nyStore.orderPizza('cheese')
 
-print('nastya zakazala', pizza.getName())
+print('dima zakazal', pizza.getName())
 
                
 >>>>>>> 210702c (7)
